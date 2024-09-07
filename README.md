@@ -1,4 +1,4 @@
-### Hi, My name is Sage, I am currently a first year at Northeastern University studying Computer Science.
+### Hi, My name is Sage, I am currently a second year at Northeastern University studying Computer Science concentrating in software and AI.
 
 <!--
 **sagashrimproll/sagashrimproll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
